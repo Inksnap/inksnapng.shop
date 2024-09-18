@@ -1,5 +1,7 @@
 /* 	=========================
-
+	Author			 : Oladipo Azeez 
+	Version			 : 1.0
+	Author Portfolio :
 	=========================
 	[Table of Contents]
 	=========================
@@ -2426,8 +2428,8 @@ textarea.form-control-lg {
   --bs-btn-font-size: 0.875rem;
   --bs-btn-font-weight: 400;
   --bs-btn-line-height: 1.6;
-  --bs-btn-color: var(--bs-body-color);
-  --bs-btn-bg: transparent;
+  --bs-btn-color: var 000000;
+  --bs-btn-bg: #368cfc;
   --bs-btn-border-width: var(--bs-border-width);
   --bs-btn-border-color: transparent;
   --bs-btn-border-radius: var(--bs-border-radius);
@@ -14504,7 +14506,7 @@ button {
   margin-top: 0; }
   .dropdown-menu .dropdown-item {
     font-size: 1rem;
-    color: #1B1B1B;
+    color: #0064ff;
     padding: 0.5rem 1.75rem;
     -webkit-transition: all 0.5s;
     -ms-transition: all 0.5s;
