@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: static-site
+    env: static
+    buildCommand: # Add your build command if needed
+    staticPublishPath: . # Or your specific publish directory
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache 
